@@ -1,0 +1,24 @@
+{
+  "name": "com.adamabuarab.autosave",
+  "version": "1.0.0",
+  "displayName": "Auto Save",
+  "description": "Smart auto save for Unity Editor. Saves scenes and assets automatically based on configurable triggers — only when there's something to save.",
+  "unity": "2021.3",
+  "unityRelease": "0f1",
+  "documentationUrl": "https://github.com/ADAM862000/unity-autosave#readme",
+  "changelogUrl": "https://github.com/ADAM862000/unity-autosave/blob/main/com.adamabuarab.autosave/CHANGELOG.md",
+  "licensesUrl": "https://github.com/ADAM862000/unity-autosave/blob/main/com.adamabuarab.autosave/LICENSE",
+  "keywords": [
+    "editor",
+    "autosave",
+    "auto-save",
+    "productivity",
+    "tools"
+  ],
+  "author": {
+    "name": "Adam Abuarab",
+    "email": "adam@adamabuarab.com",
+    "url": "https://github.com/ADAM862000"
+  },
+  "type": "tool"
+}
