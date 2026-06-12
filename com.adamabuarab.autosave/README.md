@@ -1,9 +1,5 @@
 # Auto Save
 
-[!\[Unity 2021.3+](https://img.shields.io/badge/Unity-2021.3%2B-blue?logo=unity)](https://unity.com)
-[!\[License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[!\[UPM Compatible](https://img.shields.io/badge/UPM-compatible-brightgreen)](https://docs.unity3d.com/Manual/upm-ui.html)
-
 Smart auto save for Unity Editor. Saves scenes and assets based on configurable triggers — only when something is actually dirty.
 
 \---

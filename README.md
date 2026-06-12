@@ -4,7 +4,7 @@ Smart auto save for Unity Editor by [Adam Abuarab](https://github.com/ADAM862000
 
 ## Install
 
-**Window → Package Manager → + → Add package from git URL:**
+**Window → Package Management → Package Manager → + → Install package from git URL:**
 
 ```
 https://github.com/ADAM862000/unity-autosave.git?path=com.adamabuarab.autosave
